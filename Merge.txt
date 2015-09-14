@@ -1,17 +1,17 @@
 Hello my name is munwar shaik
 
 
-there is a merge commit in this file
+there is a merge commit in this files
 
 
-we need to resolve the merge in the file
+we need to resolve the merge in the files
 
 
-we have to resolve merge commit in file as soon as possible and add the changes
+we have to resolve merge commit in file as soon as possible and add the change
 
 
 we need to change the procedure for changes and do commits
 
 
-merges has to explain demo some thing tomorrow
+merges has to explain demo some thing tomorrows
 
