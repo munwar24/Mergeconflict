@@ -1,2 +1,2 @@
-HEllo Munnas
+Hello munwar how are you
 netstat -a -n -o | find "4000" > C:\Documents and Settings\MunwarAdmin\Desktop\Merges\Example.txt
