@@ -1,8 +1,3 @@
-<<<<<<< HEAD
+
 Hello munwar how are you
 netstat -a -n -o | find "4000" > C:\Documents and Settings\MunwarAdmin\Desktop\Merges\Example.txt
-=======
-HEllo Munnas this is munwar shaik
-netstat -a -n -o | find "4000" > C:\Documents and Settings\MunwarAdmin\Desktop\Merges\Example.txt
-hello how are you
->>>>>>> master
