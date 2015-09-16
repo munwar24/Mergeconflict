@@ -1,5 +1,5 @@
 
 
-HEllo Munnas this is munwar shaik's world
+HI Munnas this is munwar shaik's world
 netstat -a -n -o | find "4000" > C:\Documents and Settings\MunwarAdmin\Desktop\Merges\Example.txt
 hello how are you
