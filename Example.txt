@@ -1,5 +1,15 @@
 
 HI Munnas this is munwar shaik's world
 
-netstat -a -n -o | find "4000" > C:\Documents and Settings\MunwarAdmin\Desktop\Merges\Example.txt
-hello how are you
+
+4
+down vote
+Let's try to take an example and understand:
+
+I have a branch, say master, pointing to X <commit-id>, and I have a new branch pointing to Y <sha1>.
+
+Where Y <commit-id> = <master> branch commits - few commits
+
+Now say for Y branch I have to gap-close the commits between the master branch and the new branch. Below is the procedure we can follow:
+
+Step 1:
